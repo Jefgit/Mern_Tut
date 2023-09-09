@@ -6,4 +6,4 @@ const NoteList = () => {
   )
 }
 
-export default NoteList
+export default NoteList 
